@@ -3,13 +3,13 @@
 
 - git clone **https://github.com/monteksz/Attarius**
 
-- python [main.py](main.py)
+- cd Attarius
 
-- cd **Attarius**
+- pip install request
 
-- pip install **request**
+- python main.py
 
-- Set How Many **Reff Do You Want**
+- Set How Many Reff Do You Want
 
-- Enter Your Reff **Code**
+- Enter Your Reff Code
 
