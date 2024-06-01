@@ -14,5 +14,5 @@
 - Enter Your Reff Code
 
 
-- **Note Reff Code On Dashboard, Copy Like The Image Below**
+- **Reff Code On Dashboard**
 <img align="center" src="https://github.com/monteksz/Attarius/blob/main/reff.jpg">
