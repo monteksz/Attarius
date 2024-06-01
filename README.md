@@ -13,4 +13,6 @@
 
 - Enter Your Reff Code
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952vbcz4dowh6a92qoesodaic89wk99inoewdr6y0n5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+- **Note Reff Code On Dashboard, Copy Like The Image Below**
+<img align="center" src="https://github.com/monteksz/Attarius/blob/main/reff.jpg">
