@@ -5,11 +5,11 @@
 
 - python [main.py](main.py)
 
-- Set How Many [Reff Do You Want](Reff Do You Want)
-
 - cd **Attarius**
 
 - pip install **request**
 
-- Your Reff **Code**
+- Set How Many **Reff Do You Want**
+
+- Enter Your Reff **Code**
 
